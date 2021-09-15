@@ -1,6 +1,6 @@
 ---
 title: "Activity 3"
-author: "Gabriela Smith"
+author: "Gabriela"
 output: github_document
 ---
 
